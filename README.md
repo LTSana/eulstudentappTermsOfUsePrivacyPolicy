@@ -53,3 +53,51 @@ By using the EUL Student app, you acknowledge that you have read, understood, an
 Last updated: 03/10/2023
 
 Thank you for using the EUL Student app!
+
+# EUL Student App - Privacy Policy
+
+## Introduction
+
+Welcome to the EUL Student app ("the App"), developed by Sana Mngadi ("the Developer"). Please read this Privacy Policy carefully to understand how your personal information will be handled when using the App. By using the App, you consent to the practices described in this policy. If you do not agree to these terms, please do not use the App.
+
+## Contact Information
+
+For any questions, concerns, or inquiries regarding privacy and data protection, you can contact the Developer at snm.developer@gmail.com.
+
+## Data Collection and Usage
+
+### Purpose of Data Collection
+
+The EUL Student app has been designed with the primary goal of assisting students from the European University of Lefke in managing their academic information and receiving relevant notifications. To achieve this objective, the App collects and utilizes the following data:
+
+1. **OIBS Credentials**: To access and retrieve data from the Online Integrated Business System (OIBS), users are required to provide their OIBS username and password. These credentials are securely stored within the App and are used solely for automated data updates.
+
+2. **Portal Credentials**: To enable student debt monitoring, the App requests users to sign in using their university portal username and password. These credentials are used exclusively for accessing the portal and retrieving relevant data.
+
+### Data Storage and Security
+
+- All provided login credentials, including OIBS and portal usernames and passwords, are securely stored within the App.
+- The Developer is committed to maintaining the privacy and security of user data, and appropriate measures have been implemented to safeguard this information.
+- User data is not shared, sold, or distributed to third parties.
+
+### Experimental Tools
+
+The EUL Student app includes experimental tools that may not be fully functional or operational in all cases. Users should be aware of the following regarding these tools:
+
+- **Tuition Fee Payment Tool**: This tool allows users to initiate payments for tuition fees. Users can input the desired payment amount, and the university's server will calculate and return any applicable bank transaction fees. This tool exclusively accepts payments via VISA or MasterCard.
+
+## Disclaimer
+
+- The EUL Student app is provided on an "as-is" basis, and the Developer makes no warranties, express or implied, regarding its functionality, accuracy, or reliability.
+
+- Users are responsible for ensuring the accuracy and security of their login credentials. The Developer will not be held liable for any misuse or loss of data resulting from the use of the App.
+
+- The App is not affiliated with the European University of Lefke or any financial institution. Any financial transactions initiated through the App are at the user's discretion and responsibility.
+
+## Acceptance of Privacy Policy
+
+By using the EUL Student app, you acknowledge that you have read, understood, and agreed to this Privacy Policy. This policy may be subject to updates and changes, so it is advisable to review it periodically.
+
+Last updated: [Date]
+
+Thank you for using the EUL Student app!

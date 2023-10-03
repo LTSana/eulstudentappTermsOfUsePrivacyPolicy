@@ -98,6 +98,6 @@ The EUL Student app includes experimental tools that may not be fully functional
 
 By using the EUL Student app, you acknowledge that you have read, understood, and agreed to this Privacy Policy. This policy may be subject to updates and changes, so it is advisable to review it periodically.
 
-Last updated: [Date]
+Last updated: 03/10/2023
 
 Thank you for using the EUL Student app!

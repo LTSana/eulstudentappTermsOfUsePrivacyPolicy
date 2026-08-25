@@ -1,164 +1,81 @@
-# EUL Student - Terms of Use
+# EUL Student — Terms of Use & Privacy Policy (EULA)
 
-**Last Updated:** _08/22/2025_
-
----
-
-## Introduction
-
-Welcome to the EUL Student app ("**the App**"), developed by Sana Mngadi ("**the Developer**"). By downloading, accessing, or using the App, you agree to comply with and be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.
+**Last Updated:** August 2026  
+**Application Version:** 9.3+  
+**Developer:** Sana Mngadi (`snm.developer@gmail.com`)  
+**Apple Standard EULA:** [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 
-## Contact Information
+## 1. Introduction & Acceptance of Terms
 
-For any questions, concerns, or inquiries, contact the Developer at _snm.developer@gmail.com_.
+Welcome to the **EUL Student** mobile application ("**the App**"). By downloading, installing, accessing, or using the App, you agree to be bound by these **Terms of Use (End User License Agreement)** and **Privacy Policy**. If you do not agree to these terms, please do not use or access the App.
 
----
-
-## Purpose of the App
-
-The EUL Student app is an **unofficial** student companion app designed to enhance the student experience at the European University of Lefke. The App offers various features, including:
-
-1. **Access to University Systems**: Integrates with university systems such as OIBS, Opay, and the Financial Portal to provide information on academic and financial status.  
-2. **Notifications and Scheduling**: Receive notifications for events, weekly class schedules, and other important updates.  
-3. **Financial Overview**: Displays student account balances. Due to limitations in the university’s Financial Portal, displayed balances may occasionally be inaccurate.  
-4. **Experimental Features**: May include features under development, which might not be fully functional or accurate.  
-5. **Premium Student Subscription**: A paid plan that unlocks exclusive features such as:  
-   - QR Code scanner for attendance.  
-   - Accounting balance history.  
-   - Priority in the queue when updating accounting data.  
-   - Exclusive UI/UX design and enhancements.  
-   - Future premium-only features as determined by the Developer.  
+### Independent Student Community Project
+The App is an independent, community-driven academic utility developed for students of the **European University of Lefke (Lefke Avrupa Üniversitesi)**. The App is **not** officially affiliated with, maintained by, or endorsed by the university administration.
 
 ---
 
-## Premium Student Subscription
+## 2. Terms of Use & End User License Agreement (EULA)
 
-- Subscriptions are managed via **RevenueCat**, **Google Play Store**, and soon the **Apple App Store**.  
-- Subscription pricing may change at any time. Users will be notified of any changes through the applicable app store.  
-- Subscriptions are tied to your app store account and are subject to their terms of service and refund policies.  
+### A. Authorized Student Access & Acceptable Use
+1. **Authorized Authentication**: You may only sign in using your own valid student number and university credentials. Unauthorized access to third-party student accounts, credential harvesting, or impersonation is strictly prohibited.
+2. **Acceptable Automation**: The App acts as a client-side relay to connect to official university portals (OIBS, SIS, Moodle, and Portal Accounting). Tampering with request headers, overloading campus servers, or malicious reverse-engineering of campus APIs is strictly prohibited.
 
----
+### B. EUL PRO PASS Auto-Renewable Subscriptions & In-App Purchases
+The App offers optional premium access through **EUL PRO PASS** auto-renewable subscriptions managed via **RevenueCat**, the **Apple App Store**, and **Google Play Store**.
 
-## Financial Information Disclaimer
+1. **Subscription Plans**:
+   - **Monthly Subscription**: Month-to-month access with flexible renewal.
+   - **Annual Subscription**: 12-month academic year access.
+2. **Payment & Billing**:
+   - Payment will be charged to your **Apple ID / Google Play account** upon confirmation of purchase.
+   - Subscriptions automatically renew unless auto-renew is cancelled **at least 24 hours before the end of the current billing period**.
+   - Your account will be charged for renewal within 24 hours prior to the end of the current period at the then-current plan price.
+3. **Management & Cancellations**:
+   - You can manage, switch, or cancel your subscription at any time via your device's store settings:
+     - **iOS**: *Settings > Apple ID > Subscriptions* or [Manage Apple Subscriptions](https://apps.apple.com/account/subscriptions).
+     - **Android**: *Google Play Store > Profile > Payments & Subscriptions*.
+4. **Standard Apple EULA Incorporation**:
+   - For all iOS installations, this agreement incorporates Apple's [Standard Licensed Application End User License Agreement (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
 
-- The financial information provided within the App, including student balances, is retrieved from the university’s Financial Portal.  
-- Balance updates may occur infrequently (e.g., once per month), meaning displayed data may be outdated or inaccurate.  
-- The **Accounting Balance History** is generated by recording changes in the current balance during each update. The university itself does not provide historical balance data.  
-- The Developer is not responsible for any discrepancies or financial decisions based on the information provided by the App.  
-
----
-
-## Data Collection and Usage
-
-### User Credentials
-
-To provide its services, the App requires users to input their university system credentials (e.g., OIBS and portal usernames and passwords). These credentials are necessary to access university systems and retrieve relevant data. By using the App, you consent to the collection and use of your credentials for these purposes.
-
-### Data Storage
-
-- User credentials are securely stored within the App and, in some cases, on an online database.  
-- The Developer employs industry-standard practices to protect your data's security and confidentiality.  
-- The App does not share, sell, or distribute user data to third parties without explicit consent.  
-
----
-
-## Future Features and Changes
-
-- The Developer reserves the right to introduce new features, modify existing ones, or restrict certain features to premium users.  
-- Users will be notified of any significant updates or changes to the App’s functionality or these Terms of Use.  
+### C. Feature Scope & Disclaimers
+1. **Academic Data (OIBS / SIS)**: Timetable schedules, 4-year curriculum matrix, GPA/CGPA, and transcripts are retrieved from official campus systems with your consent and cached locally for offline convenience. Official binding records remain those on the official university servers.
+2. **Financial Ledger & Accounting**: Tuition balances, debt figures, and transaction logs reflect cached data from student accounting portals. For legally binding financial clearances, fee receipts, and bank deposit confirmations, always consult the university accounting office.
+3. **Moodle LMS & QR Attendance**: 1-Tap course enrollment and classroom QR attendance scanning are provided to streamline classroom workflows. Always verify critical course enrollments on the official Moodle website.
+4. **Campus Shuttle Radar**: Transit schedules, bus stops, and countdown timers are subject to changes by university transport coordinators and campus traffic conditions.
+5. **Intellectual Property**: All university logos, trademarks, course codes, and building names belong to their respective owners at European University of Lefke.
 
 ---
 
-## Disclaimer of Warranties
+## 3. Privacy Policy & Data Handling
 
-The App is provided on an "**as-is**" and "**as-available**" basis. The Developer makes no warranties, express or implied, regarding the App’s performance, accuracy, reliability, or suitability for any particular purpose. Users use the App at their own risk.
+We operate under strict **zero-sharing** and **privacy-first** principles:
 
----
+### A. Credential Security & Local Keychain Storage
+- Your university portal credentials (OIBS, SIS, Moodle, and Accounting) are stored encrypted in your device's native hardware security enclave (**Apple Keychain / Android Keystore**).
+- Credentials are transmitted strictly over encrypted TLS connections directly to university authentication gateways. We **never** sell, rent, monetize, or share your credentials with third parties.
 
-## Limitation of Liability
+### B. Academic Data Ingestion & Offline SQLite Storage
+- Academic schedules, curriculum requirements, and transcripts are ingested upon student login and cached in a local, encrypted **SQLite** database on your device to enable instant offline access without requiring internet connectivity.
 
-The Developer shall not be liable for any direct, indirect, incidental, consequential, or special damages arising from or in any way related to the use of the App, including but not limited to data loss, system errors, subscription charges, or financial inaccuracies.
+### C. Third-Party Subprocessors
+To operate reliable, real-time services, we partner with industry-standard, privacy-compliant infrastructure providers:
+- **Supabase Cloud**: Authenticated database synchronization protected by Row Level Security (RLS) policies.
+- **RevenueCat**: Secure in-app purchase validation communicating directly with Apple App Store and Google Play.
+- **Sentry**: Anonymized crash telemetry and runtime error monitoring to improve app stability.
+- **Expo Notifications**: Anonymous device push token delivery for lecture countdowns and morning briefings.
 
----
-
-## Acceptance of Terms
-
-By using the EUL Student app, you acknowledge that you have read, understood, and agreed to these Terms of Use. These terms may be updated periodically, and continued use of the App signifies acceptance of any changes.
-
----
-
-# EUL Student App - Privacy Policy
-
-**Last Updated:** _08/22/2025_
-
----
-
-## Introduction
-
-Welcome to the EUL Student app ("**the App**"), developed by Sana Mngadi ("**the Developer**"). This Privacy Policy explains how your personal information is collected, used, and protected when you use the App. By using the App, you consent to the practices described in this policy.
+### D. Account Deletion & GDPR Compliance (Apple Guideline 5.1.1(v))
+You maintain full ownership of your data:
+- **Local Cache Purge**: You can flush all locally cached academic schedules and ledger checkpoints at any time from *Settings*.
+- **Permanent Account Deletion**: You can permanently delete your account and all associated cloud records instantly from *Settings > Security > Delete Account*.
 
 ---
 
-## Contact Information
+## 4. Contact & Inquiries
 
-For any questions, concerns, or inquiries regarding privacy and data protection, you can contact the Developer at _snm.developer@gmail.com_.
+For support, questions regarding your data privacy, or general feedback, contact the independent developer team:
 
----
-
-## Data Collection and Usage
-
-### Types of Data Collected
-
-1. **Credentials**: The App requires users to input their OIBS and portal usernames and passwords to access and retrieve data from the university’s systems. These credentials are stored securely and used solely for the intended purposes.  
-2. **User Data**: The App may collect additional information, such as user preferences, subscription status, and interaction history, to improve the user experience.  
-3. **Subscription Data**: When subscribing to **Premium Student**, payment and subscription details are handled by third-party platforms (**RevenueCat**, **Google Play Store**, and soon the **Apple App Store**). The Developer does not process or store payment details directly.  
-
-### Purpose of Data Collection
-
-The primary purpose of data collection is to provide users with a seamless experience by integrating the App with the university's systems, enabling features such as academic data management, financial overview, notifications, and premium services.
-
-### Data Storage and Security
-
-- User credentials and other collected data are securely stored within the App and, where necessary, on an online database.  
-- The Developer has implemented industry-standard security measures to protect user data from unauthorized access, alteration, disclosure, or destruction.  
-
----
-
-## Third-Party Services
-
-The App integrates with third-party services, including:  
-- **RevenueCat** for subscription management.  
-- **Google Play Store** and **Apple App Store** for payment processing.  
-- In the future, additional third-party tools (such as analytics or advertising) may be introduced, with prior notice to users.  
-
----
-
-## Experimental and Premium Features
-
-The App may include experimental or premium-only features that are still under development. These features may not be fully functional, accurate, or available to all users.  
-
----
-
-## Data Sharing and Disclosure
-
-- The Developer does not share, sell, or distribute user data to third parties without explicit consent, except as required by law or in the event of a legal investigation.  
-
----
-
-## User Rights
-
-Users have the right to request access to their data, correct inaccuracies, or delete their data by contacting the Developer. Users may also withdraw consent to data collection at any time by discontinuing the use of the App.  
-
----
-
-## Disclaimer
-
-The App is provided on an "**as-is**" basis, and the Developer makes no warranties regarding its functionality, accuracy, or reliability. The Developer is not responsible for any data breaches or unauthorized access resulting from the use of the App.  
-
----
-
-## Acceptance of Privacy Policy
-
-By using the EUL Student app, you acknowledge that you have read, understood, and agreed to this Privacy Policy. This policy may be updated periodically, and continued use of the App signifies acceptance of any changes.
+- **Email**: `snm.developer@gmail.com`
+- **In-App Feedback**: Available within the *Settings* screen of the EUL Student App.
